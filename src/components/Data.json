@@ -1,0 +1,117 @@
+{
+    "intro": [
+    "about", "skills","education", "professional experience","academic projects", "volunteering","contact"
+    ],
+    "about": [
+            "Who Am I?",
+             ". Creative, patient and responsible, I behave perfectly in a team work.Interested in everything related to WEB development and its latest trends. If you are looking for an IT engineer, I am not yet, but I would like to become. ",
+             "Well, that's what I do..."  
+    ],
+  
+    "skills": [
+    "Over the course of my education , I have received a tremendous amount of advice on the best ways to excel in the professional world. I used what I have learned and worked to continuously improve myself. As a current IT student at Polytechnic School of Sousse with an increasingly extensive knowledge of diverse IT systems and implementations—complemented by my superior team collaboration and project management abilities coupled with my enthusiasm and dedication to achieving success, I believe I could swiftly surpass your expectations. "
+    ],
+   "project": [
+   {
+    "img":"url(images/Web.png)",
+    "title":"Tunisian-Camp Web App",
+    "desc":"Create a responsive web application that allows Tunisian campers to share and exchange their stories, photos and details of each experience they have lived. Technologies:ReactJs,Redux,MongoDB,Nodejs,ExpressJs ",
+    "url":""
+
+
+  },
+  {
+    "img":"url(images/angular.gif)",
+    "title":"IOT Dashboard",
+    "desc":"Create a Responsive web dashboard for a smart home that allows users to manage and control IOT devices including add, remove, turn on, turn off or display sensor information...   We used Spring-boot for the back end and angular js for the front end.",
+    "url":""
+  },
+  {
+    "img":"url(images/IOT.jpeg)",
+    "title":"Smart Home hub",
+    "desc":"Build a Spring Boot application, where I would integrate Google Dialogflow and interact with all my ESP8266s through a lightweight & stable messaging protocol like MQTT, using an intuitive UI built with Angular.",
+    "url":""
+  },
+  {
+    "img":" url(images/i1.png)",
+    "title":"InstaPoly (Instagram-clone)",
+    "desc":"Creation of a responsive web application that will scroll through everyone's photos and posts, read descriptions, choose or take photos and upload them to share with each other.      Using Laravel for the backend and VueJs for the Front end.",
+    "url":""
+  }  
+  ],
+   
+"social": [
+            {
+              "title": "Founding President of Outlanders EPS",
+              "img": "images/outl.jpg",
+              "url": "",
+              "time":"09/2019--Present",
+              "type":"University Club",
+              "description": "Outlanders EPS is a social and cultural university club that aims to bring together students from different backgrounds, organize various events, create content and integrate into the community.",
+              "events":"Farwell Party, digital marketing workshops, Participation in the organization of the 2K20 citizen engineer seminar, Camping sidi Brek ..."
+              
+            },
+            {
+                "title": "co-founder and  Event committee manager ",
+                "img": "images/Jim.jpg",
+                "url": "",
+                "time":"05/2015--06/2018",
+                "type":"Non-profit Organization",
+                "description": "This association was created following a common desire of ten young people from my region which consists in offering the possibility of evolving and changing the world.Let's stop dreaming our life and live our dream.",
+                "events":"M'saken à velo, Cafe Talk, Le Sociétal, Beach Please Be Clean ..."
+            },
+            {
+              "title": "'Dourha m3aya' take a ride with us",
+              "img": "images/sic.png",
+              "url": "",
+              "time":"11/2018--03/2019",
+              "type":"Socio-cultural Project",
+              "description": "It's about a 720km tour around the Tunisian Northwest with a  low budget for 7 days into the wild in order to get out of passivity by promoting new activities such as camping, promoting domestic tourism, moral support for social cases, giving hope to young people and changing their negative perception of their country.",
+              "events":"Seminaire Ingenieur Citoyen 2K20,Success Story Sousse 2K19,Winner of SIC2K19"
+            }
+    ],
+    "sk": [
+      {
+        "name":"Html5 & CSS3",
+        "class":"progress-bar color-1",
+        "val":"80"
+      },
+      {
+        "name":"NodeJS,Express",
+        "class":"progress-bar color-2",
+        "val":"70"
+      },
+      {
+        "name":"JavaScript",
+        "class":"progress-bar color-3",
+        "val":"60"
+      },
+      {
+        "name":"ReactJs,Redux",
+        "class":"progress-bar color-4",
+        "val":"70"
+      },
+      {
+        "name":"JEE,Spring-Boot",
+        "class":"progress-bar color-5",
+        "val":"80"
+      },
+      {
+        "name":"MongoDB,MySQL",
+        "class":"progress-bar color-6",
+        "val":"75"
+      },
+      {
+        "name":"Digital marketing & Video Editing",
+        "class":"progress-bar color-7",
+        "val":"85"
+      },
+      {
+        "name":"Communication and Social integration",
+        "class":"progress-bar color-8",
+        "val":"80"
+      }
+    
+    ]
+    
+}
